@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'UdayKumarcFirstWebApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F8C046AB98A74B57940DE379DF68CF4E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0CD9C6FC74A241DC8DB297F8B900A6FC }}
           package: .
